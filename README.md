@@ -19,6 +19,7 @@
   <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />  
   <img align="center" alt="colab" src="https://img.shields.io/badge/Google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 </div><br/>
 
