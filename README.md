@@ -25,6 +25,10 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div><br/>
 
+## Reach me 📫
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramos09/)
+[![Gmail](https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilherme.ramos09@gmail.com)](mailto:guilherme.ramos09@gmail.com)
+
 ## GitHub Stats ⚡
 <div>
   <a href="https://github.com/guilherme-ro">
@@ -35,7 +39,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-ro&layout=compact&langs_count=7&theme=radical"/> 
   </center>
 </div>
-
-## Reach me 📫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramos09/)
-[![Gmail](https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilherme.ramos09@gmail.com)](mailto:guilherme.ramos09@gmail.com)
