@@ -9,7 +9,7 @@
 - Security, Programming, ML, Data Science, Automation.
 
 ## Languages e Tools 💻
-<div style="display: inline">
+<div style="display: inline;">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />   
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />   
@@ -19,8 +19,10 @@
   <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />  
   <img align="center" alt="colab" src="https://img.shields.io/badge/Google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+<br/>
+<div style="display: inline">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-
 </div><br/>
 
 ## GitHub Stats ⚡
