@@ -28,6 +28,7 @@
 ## Reach me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramos09/)
 [![Gmail](https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilherme.ramos09@gmail.com)](mailto:guilherme.ramos09@gmail.com)
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-eece1a?style=for-the-badge&logo=githubpages&logoColor=black&link=[mailto:guilherme.ramos09@gmail.com](https://guilherme-ro.github.io/))](https://guilherme-ro.github.io/)
 
 ## GitHub Stats ⚡
 <div>
