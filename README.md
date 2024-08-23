@@ -6,7 +6,7 @@
 - Specialization course in Data Science and Artificial Intelligence - Uninter.
 - Specialization course in Electronic Engineering and Robotics - Uninter.
 - Technologist course in Business Management - Fatec.
-... Security, Programming, ML, Data Science, Automation ...
+- ... Security, Programming, ML, Data Science, Automation ...
 
 ## Languages e Tools 💻
 <div style="display: inline;">
