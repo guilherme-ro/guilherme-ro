@@ -22,6 +22,7 @@
 <br/>
 <div style="display: inline">
   <img align="center" alt="mysql" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img align="center" alt="bash" src="https://img.shields.io/badge/Kali%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
