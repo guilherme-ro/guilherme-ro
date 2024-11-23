@@ -6,6 +6,8 @@
 - Specialization course in Data Science and Artificial Intelligence - Uninter.
 - Specialization course in Electronic Engineering and Robotics - Uninter.
 - Technologist course in Business Management - Fatec.
+- Technical Qualification in Embedded Systems (In progress: November 2024 - February 2025) - HBR - Instituto Hardware BR
+    -> Qualification in Embedded Systems with application in Internet of Things and Case Studies in the Agriculture, Industry, Smart Cities and Logistics segments
 - ... Security, Programming, ML, Data Science, Automation ...
 
 ## Languages e Tools 💻
