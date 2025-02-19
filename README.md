@@ -1,6 +1,6 @@
 ## Hi there, I'm Guilherme 👋
 
-- BSc in Computer Engineering (In progress: 2020 - December 2024) - Univesp.
+- BSc in Computer Engineering - Univesp.
 - BSc in Information Technology - Internet of Things - IoT-centric.
 - Specialization course in Information Security - Senac-SP.
 - Specialization course in Data Science and Artificial Intelligence - Uninter.
